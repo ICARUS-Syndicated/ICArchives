@@ -8,7 +8,7 @@ sidebar-position: 2
 
 话总要有个头，总得有人先写点什么，好唤起之后的回忆。
 
-![套娃](_images/套娃.jpg)
+![套娃](_images/套娃.png)
 
 :::
 
