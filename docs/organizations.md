@@ -1,5 +1,5 @@
 ---
-sidebar-position: 2
+sidebar_position: 2
 ---
 
 # 组织列表
@@ -22,7 +22,7 @@ sidebar-position: 2
 
 ## RMS
 
-## 云梦之霭
+## 云霭之梦
 
 ## Pykefox Community / Project
 
@@ -58,12 +58,24 @@ sidebar-position: 2
 
 中文名叫做海洲。其中一个一直延续到今日的组织，另外一个是苏维埃基地。
 
-> 海州从来不是air一个人的工程，air的建筑最多只占三分之一，余下的部分都是众多玩家一起建造的；seaty是大家的，大家都不在了，工程自然便停了。
-> —— Airlenter
+> 海州从来不是air一个人的工程，air的建筑最多只占三分之一，余下的部分都是众多玩家一起建造的；seaty是大家的，大家都不在了，工程自然便停了。<br>
+> —— airlenter
 
-坐落于某片海域，其功能主要为商业和居住，建筑风格为融合了现代风格的半中世纪建筑；间或会有一些机器穿插其中。
+一般坐落于某片海域，其功能主要为商业和居住，建筑风格为融合了现代风格的半中世纪建筑；间或会有一些机器穿插其中。
 
-你自己补照片吧 @Air
+在多个时期内的多个存档均有建设，~~air你怎么这么姬八闲。~~
+
+一周目时期的 Seaty。
+
+![seaty-first-iter](_images/seaty-first-iter.png)
+
+位于 NSV 存档的 Seaty。
+
+![seaty-nsv](_images/seaty-nsv.png)
+
+位于一周目重置版的 Seaty。
+
+![seaty-refirst](_images/seaty-refirst.png)
 
 ## 苏维埃基地
 
@@ -75,5 +87,7 @@ sidebar-position: 2
 
 ## 光辉轨迹
 
-## 
+## 农场
+
+
 
