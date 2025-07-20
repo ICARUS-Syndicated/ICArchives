@@ -26,10 +26,19 @@ const FeatureList = [
     Svg: require('@site/static/img/pykefox.svg').default,
     description: (
       <>
-        或许仍旧是一个计划不足的产物。
+        希望暂时的放弃能带来更好的启航...
       </>
     ),
   },
+  {
+    title: '接着是伊卡洛斯。',
+    Svg: require('@site/static/img/icarus.svg').default,
+    description: (
+      <>
+        然后绽放双翼。
+      </>
+    ),
+  }
 ];
 
 function Feature({Svg, title, description}) {
