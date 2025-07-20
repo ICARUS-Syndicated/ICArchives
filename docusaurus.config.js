@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-            'https://github.com/postyizhan/Wiki-Template/blob/main'
+            'https://github.com/ICARUS-Syndicated/ICArchives/blob/main'
         },
         blog: false,
         theme: {
@@ -78,7 +78,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/postyizhan/Wiki-Template',
+            href: 'https://github.com/ICARUS-Syndicated/ICArchives',
             label: 'GitHub',
             position: 'right',
           },
@@ -106,7 +106,7 @@ const config = {
             items: [
               {
                 label: 'QQ群',
-                href: 'https://qm.qq.com/q/dENGavSflK',
+                href: 'https://qm.qq.com/q/mdGhdrpDKU',
               },
             ],
           },
@@ -115,7 +115,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/postyizhan/Wiki-Template',
+                href: 'https://github.com/ICARUS-Syndicated/ICArchives',
               },
             ],
           },
