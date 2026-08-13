@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 100
 ---
 
 # 组织列表
@@ -58,7 +58,7 @@ sidebar_position: 2
 
 中文名叫做海洲。其中一个一直延续到今日的组织，另外一个是苏维埃基地。
 
-> 海州从来不是air一个人的工程，air的建筑最多只占三分之一，余下的部分都是众多玩家一起建造的；seaty是大家的，大家都不在了，工程自然便停了。 
+> 海州从来不是air一个人的工程，air的建筑最多只占三分之一，余下的部分都是众多玩家一起建造的；seaty是大家的，大家都不在了，工程自然便停了。
 >
 > —— airlenter
 
@@ -70,13 +70,17 @@ sidebar_position: 2
 
 ![seaty-first-iter](_images/seaty-first-iter.png)
 
-位于 NSV 存档的 Seaty。
+位于 NSV 内测版本的 Seaty。
 
-![seaty-nsv](_images/seaty-nsv.png)
+![seaty-nsv-preview](_images/seaty-nsv-preview.png)
 
 位于一周目重置版的 Seaty。
 
 ![seaty-refirst](_images/seaty-refirst.png)
+
+位于 NSV 的 Seaty。
+
+![seary-nsv](_images/seaty-nsv.png)
 
 ## 苏维埃基地
 
@@ -88,7 +92,8 @@ sidebar_position: 2
 
 ## 光辉轨迹
 
+## 基金会
+
+## 伽蓝神殿
+
 ## 农场
-
-
-

@@ -22,20 +22,11 @@ const FeatureList = [
     ),
   },
   {
-    title: '再到 Pykefox...',
-    Svg: require('@site/static/img/pykefox.svg').default,
-    description: (
-      <>
-        希望暂时的放弃能带来更好的启航...
-      </>
-    ),
-  },
-  {
     title: '接着是伊卡洛斯。',
     Svg: require('@site/static/img/icarus.svg').default,
     description: (
       <>
-        然后绽放双翼。
+        飞吧，飞向远方。
       </>
     ),
   }
