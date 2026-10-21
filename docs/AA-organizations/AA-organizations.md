@@ -1,7 +1,3 @@
----
-sidebar_position: 100
----
-
 # 组织列表
 
 :::info

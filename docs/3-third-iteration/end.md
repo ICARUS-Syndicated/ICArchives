@@ -6,7 +6,7 @@ sidebar_position: 100
 
 ## 密谋
 
-大约在 4 月 24 日前几天，hmcl，n_o 等便已拉拢中立的 Sky_star_dust，ClearBlue_Water 成立了新的组织 —— [云霭之梦](/docs/organizations.md#云霭之梦)。
+大约在 4 月 24 日前几天，hmcl，n_o 等便已拉拢中立的 Sky_star_dust，ClearBlue_Water 成立了新的组织 —— [云霭之梦](/AA-organizations/大会要)。
 
 云霭之梦建立的目的很简单，为了推翻现有的体制重新作为。成员已经受够了笔者长期的阴阳怪气和言语压力，遂决定脱离出去单干。
 

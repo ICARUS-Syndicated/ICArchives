@@ -1,4 +1,4 @@
-image: node:20.12.1
+image: node:24
 
 stages:
   - test
@@ -7,7 +7,7 @@ stages:
 test:
   stage: test
   script:
-  - npm install
+  - npm ci
   - npm run build
   rules:
     - if: $CI_COMMIT_REF_NAME != $CI_DEFAULT_BRANCH
@@ -15,7 +15,7 @@ test:
 pages:
   stage: deploy
   script:
-  - npm install
+  - npm ci
   - npm run build
   - mv ./build ./public
   artifacts:
