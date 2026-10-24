@@ -43,3 +43,8 @@ Huxk2008@helper@RedWhitePavilion
 ## 原件截图
 
 ![报告](_images/report.png)
+
+> 欧阳事后声明当时只是更新导致误清op，虽然确认他自己的op的确是重新上的，但是真假自行判断。  
+> ———— airlenter  
+
+笔者认为该说法存疑，因为笔者在随后权限并没有被清除而是保持原样。  
