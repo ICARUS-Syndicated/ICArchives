@@ -14,6 +14,9 @@ Seaty 没有成员、没有部门、没有考核，也没有明确的账目。
 > 海洲一开始就没有组织。  
 > ———— airlenter  
 
+![image](_images/seaty-first-iter.png)
+> 一周目海洲的中心区。  
+
 Seaty 的功能以低价转卖为主，如果玩家有想要买的东西到seaty看一眼大概率能找到；但是 air 不常补货，很多店长期缺货。除此之外 Seaty 在末地也有一个分店与一个甘蔗农场。
 
 仅只是在可恢复的记录中海洲就非常多灾多难：  
@@ -79,3 +82,12 @@ RWP、RedT、云霭、Re:RWP、NSV Alpha、NSV 都有大小不等的 Seaty 版�
 ## 跨代之间
 
 在 RWP，RedT，云霭，Re:RWP，NSV Alpha，NSV 均存在 Seaty，目前档案馆藏有两个 Seaty 城市原本，其余尚无法得知其具体建筑内容。
+
+![image](_images/seaty-refirst.png)  
+> 位于五周目（Re:RWP）的海洲。  
+
+![image](_images/seaty-nsv-preview.png)  
+> 位于 NSV 内测服的海洲。  
+
+![image](_images/seaty-nsv.png)  
+> 位于 NSV 的海洲。  
