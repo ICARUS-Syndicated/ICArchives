@@ -36,7 +36,7 @@ sidebar_position: 3
 - `WASTE312` 被 `chuangyichuang` 杀了两次；  
 - `chuangyichuang` 被 `ClearBlue_Water` 用“冰矿采集器II”杀了四次，“潮极熵能分解者”一次；  
 - `MC_PiCpo` 被“炸三文鱼”杀了两次，“冰矿采集器II”两次；  
-- `neko__LY` 被 `airlenter` 射杀一次，随后全服达成一致：`iar的错`。  
+- `neko__LY` 被 `airlenter` 射杀一次，随后全服达成一致：`air的错`。  
 
 `ClearBlue_Water` 打到一半说“我暂时开了不掉落”。改的人是 OP，改之前没人问，改之后没人反对，就和吃饭睡觉一般琐碎而寻常。  
 
