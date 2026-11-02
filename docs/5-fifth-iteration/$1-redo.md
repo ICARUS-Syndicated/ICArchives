@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 复刻
 
-> Simulate the fervor and the passion.
+> Simulate the fervor and the passion.  
 > 模仿那激情之心。  
 
 五周目的野心在这一切之前就已经写在了 ICAI 彼时混乱不堪的编辑页面上。在上一节，我们提到过 hmcl 仿照笔者写文章的笔法写下了那些看起来非常激昂的文字：  

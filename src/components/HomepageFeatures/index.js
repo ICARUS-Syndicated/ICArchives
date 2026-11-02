@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/rwp.svg').default,
     description: (
       <>
-        RWP 的种子处处都在。
+        起始。
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/rms.svg').default,
     description: (
       <>
-        一个计划不足的产物。
+        流产。
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/icarus.svg').default,
     description: (
       <>
-        飞吧，飞向远方。
+        飞向远方。
       </>
     ),
   }

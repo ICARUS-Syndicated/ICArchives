@@ -6,7 +6,7 @@ const {themes} = require('prism-react-renderer');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ICAI - 伊卡洛斯档案馆',
-  tagline: 'ICARUS Choronicles Archival Institute',
+  tagline: '记录，归档。包含了从 2020 年至今的，RWP 所有存档的历史摘要。',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

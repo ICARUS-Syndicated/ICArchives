@@ -11,9 +11,3 @@ sidebar_position: 100
 因此在这一部分，我们大部分时间将会采用口述的形式进行讲述。
 
 :::
-
-```mdx-code-block
-import DocCardList from '@theme/DocCardList';
-
-<DocCardList />
-```

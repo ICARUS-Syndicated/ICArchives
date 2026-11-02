@@ -2,7 +2,7 @@
 sidebar_position: 100
 ---
 
-# 武器设计表
+# 附录 - 武器设计表
 
 ![alt text](_images/table.png)  
 > 回收的设计表。
