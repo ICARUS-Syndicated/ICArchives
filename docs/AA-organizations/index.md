@@ -45,6 +45,18 @@ sidebar_position: 200
 [极星](./the-polaris.md)  
 [其它小城镇](./outposts-and-towns.md)  
 
+## 五 / 六周目
+
+鉴于五六周目联系紧密，一并列出。  
+针对六周目，另一种叫法是“5.5 周目”。  
+
+[WASP 的基地](./w-above-the-cloud.md)  
+[全服最穷工会](./poorest-guild.md)  
+[繁樱屿建设兵团](./sakura-island-constructing-group.md)  
+[繁樱屿](./sakura-island.md)  
+[管岛驻海盐奶盖雪原办事处](./tube-island-snowy-taiga-office.md)  
+[管岛](./tube-island.md)  
+
 ## 跨周目
 
 [海洲（Seaty）](./seaty.md)  
@@ -53,3 +65,4 @@ sidebar_position: 200
 ## 特殊
 
 [管理层](./redwhite-oprands.md)  
+[翠璃风闻司](./emerald-veranda.md)  

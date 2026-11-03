@@ -181,6 +181,9 @@ sidebar_position: 1
 
 三月二十一日，`agonicx330ml` 宣布：“我要脱离繁樱屿了，QAQ”。理由是 `QAQ121QAQ` 长期不上线、规划不定稿。`zhenenji` 起哄“把QAQ踹了”。`agonicx330ml` 说：“说不定哪天我就篡位了”。
 
+![alt text](./_images/2026-03-21_21.38.11.png)  
+> WASP 于家中的截图，图文无关。  
+
 三月二十二日，`agonicx330ml` 发起“移山工程3期”，`WASP`、`NewBie_Bu`、`Hydro_Slime`、`zhenenji` 全部下场铲土。新址定名“徽樱谷”（暂定）。  
 `agonicx330ml` 在收工时说：“基本竣工了，感谢各位”。
 
@@ -225,3 +228,6 @@ sidebar_position: 1
 
 同一天，木白问：“话说最近人好少哦~”“各位有什么头绪吗）”。  
 没有人回答他。  
+
+![alt text](./_images/2026-04-17_21.40.32.png)  
+> WASP 客户端的截图。  

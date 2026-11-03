@@ -79,6 +79,10 @@ RWP、RedT、云霭、Re:RWP、NSV Alpha、NSV 都有大小不等的 Seaty 版�
 
 海洲在三周目并没有实质性建立过，air 只是圈了一块地之后又迅速删掉了它。
 
+## 五周目
+
+五周目的 seaty 是主城的商业区。  
+
 ## 跨代之间
 
 在 RWP，RedT，云霭，Re:RWP，NSV Alpha，NSV 均存在 Seaty，目前档案馆藏有两个 Seaty 城市原本，其余尚无法得知其具体建筑内容。

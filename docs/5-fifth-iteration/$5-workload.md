@@ -31,7 +31,8 @@ sidebar_position: 5
 > 据ybk本人的回忆，他说他要成为你服最大的浆果种植户，他后来也确实做到了。  
 > ———— ybk10124  
 
-![alt text](./_images/1.png)
+![alt text](./_images/1.png)  
+![alt text](./_images/2025-12-05_19.31.42.png)  
 > ybk 所建立的红莓省的截图。  
 
 一月十三日，`Anshonley` 挂机七天升到 1012 级：“1012级，爽”“挂了7天，上到1000级太费劲”“没有地毯做不到”。  
