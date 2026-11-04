@@ -12,7 +12,7 @@
 光辉轨迹组织中，Beyond 基本没有实施有效的管理，几乎没有做过任何工程，并且声誉逐渐下跌。  
 光辉轨迹的活跃期应在 2022 年 4—5 月，后期在软硬兼施下被迫加入大会要。
 
-![alt text](./_images/486a1dd85beac42e21fb6827a953470f_720.png)  
+![alt text](./_images/glorious-iron-tower.png)  
 > 位于光辉轨迹的铁块塔工程，从左到右分别为 wer，hour 以及 madventures。  
 
 ## 衰落与遗产

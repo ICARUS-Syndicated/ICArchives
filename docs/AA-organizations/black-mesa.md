@@ -28,6 +28,9 @@
 ![alt text](_images/blackmesa-lhlhome.png)  
 > linheng_li 在黑山基地的家。  
 
+![alt text](_images/blackmesa-industry.png)  
+> 黑山工业区的一角，拍摄者 Esrafv。  
+
 ## 日志
 
 - **2021-12-05**：招人开张，"暂时就你和我""下午回来一个新人"。  

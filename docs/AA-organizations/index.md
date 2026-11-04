@@ -56,6 +56,8 @@ sidebar_position: 200
 [繁樱屿](./sakura-island.md)  
 [管岛驻海盐奶盖雪原办事处](./tube-island-snowy-taiga-office.md)  
 [管岛](./tube-island.md)  
+[无奇的农场](./wuqi-farm.md)  
+[红莓省](./redberry-county.md)  
 
 ## 跨周目
 
