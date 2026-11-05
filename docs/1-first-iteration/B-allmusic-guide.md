@@ -25,7 +25,7 @@ sidebar_position: 101
 若出现切歌提示（正在播放：XXX）后还是没有该界面，则说明MOD冲突或安装未成功  
 已知冲突MOD:所有的作弊MOD 旧版的投影(litematica)  
 直接点歌：  
-指令 /music <歌曲ID>  
+指令 /music \<歌曲ID>  
   Q:什么是歌曲ID?  
   A:allmusic使用网易云音乐API，而网易云里面的每一首歌曲都有一个独一无二的歌曲ID（所以不要想着点某狗某Q的歌）  
  ID查看方式：分享歌曲-复制链接  
