@@ -132,8 +132,6 @@ ICAI是什么？ RWP又是是什么？ RMS是啥？？ 伊卡洛斯又是啥？�
 
 ***在阅读完 第二迭代 的 所有主线文章 后*** ...
 
-
-
 你不得不承认事情比你以为的更加绝望。
 
 如果把第一周目比作 “一个人从出生到成年再到老去” 的整个过程，那么第二周目可以说是 “[老去](https://icarus-syndicated.github.io/ICArchives/second-iteration/$1-ruins-in-the-dust) 到 [重病](https://icarus-syndicated.github.io/ICArchives/second-iteration/$2-cooldown) 到 [回光返照](https://icarus-syndicated.github.io/ICArchives/second-iteration/$3-recast-sunlight) 到 [卧床不起](https://icarus-syndicated.github.io/ICArchives/second-iteration/$4-downfall) 最终 [死亡](https://icarus-syndicated.github.io/ICArchives/second-iteration/$5-ember) ” 的过程了。
@@ -234,9 +232,9 @@ tmd还有人类吗
 
 你不禁感叹。
 
-在第二周目的时候，白磷一个人负责了绝大多数技术工作，直至筋疲力尽，然后在结尾被“分离”出管理组。
+在第二周目的时候，白磷一个人负责了绝大多数技术工作，直至筋疲力尽，然后在故事的结尾被“分离”出管理组。
 
-在第六周目的时候，木白一个人负责了绝大多数技术工作，直至筋疲力尽，然后在结尾被“分离”出管理组。
+在第六周目的时候，木白一个人负责了绝大多数技术工作，直至筋疲力尽，然后在故事的结尾被“分离”出管理组。
 
 历史真的是个圈啊。
 
@@ -342,8 +340,10 @@ tmd还有人类吗
 
 在你的视野角落，屏幕下方，你看到了黑色的页脚。
 
-或许你可以通过点击“交流”下方的QQ群，加入一个叫做“NSV”的，由“笔者”开发的，全新的MC服务器；
+或许你也可以转身离开，带着闯入这个文档站所给你的所有体验，关闭这个网页；
 
-又或者你也可以转身离开，带着闯入这个文档站所给你的所有体验，关闭这个网页。
+又或者你可以通过点击“交流”下方的QQ群，加入一个叫做“NSV”的，由“笔者”开发的，全新的MC服务器。
 
 ...“你”想了想。或许你和“你”已经不算是一个闯入者了。
+
+或者至少，在这个全新的世界里，没有“闯入者”一说。
