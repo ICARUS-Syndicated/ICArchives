@@ -118,13 +118,13 @@ ICAI是什么？ RWP又是是什么？ RMS是啥？？ 伊卡洛斯又是啥？�
 | 红白 | `RedWhite` | / | 一周目服主 |
 | “笔者” | `huxk`，`white_phosphor` | 物理机服主 | 你已经知道笔者是WhitePhosphor（白磷）了 |
 | 菠萝 | `littleboluo` | 管理 | / |
-| CBW | `CBW` | 管理？服主？ | 在[红白走后](https://icarus-syndicated.github.io/ICArchives/first-iteration/-handoff)，曾为“代理服主” |
+| CBW | `CBW` | 管理？服主？ | 在[红白走后](https://icarus-syndicated.github.io/ICArchives/first-iteration/$5-handoff)，曾为“代理服主” |
 | hmcl | `Jade_Emerge` | 管理 | / |
 | 苏哥 | `SovietCommander` | 管理 | / |
 | 欧阳 | `ouyangyuanyi` | 管理 | / |
 | air | `airlenter` | 管理 | / |
 
-...看着上面的人名表，你不得不承认 [尘中废墟](https://icarus-syndicated.github.io/ICArchives/second-iteration/-ruins-in-the-dust#%E5%BD%B1%E4%B8%AD) 中提到的 “混乱的世界” 的确有道理。
+...看着上面的人名表，你不得不承认 [尘中废墟](https://icarus-syndicated.github.io/ICArchives/second-iteration/$1-ruins-in-the-dust#%E5%BD%B1%E4%B8%AD) 中提到的 “混乱的世界” 的确有道理。
 
 总之，现在你认为自己可以 [阅读第二迭代的剩余内容](https://icarus-syndicated.github.io/ICArchives/second-iteration/$2-cooldown) 了。
 
@@ -242,7 +242,7 @@ tmd还有人类吗
 
 你意识到，你已经阅读了档案馆的绝大部分内容。
 
-还剩两个。 [跋](https://icarus-syndicated.github.io/ICArchives/fin) ， 和 [A - 续](https://icarus-syndicated.github.io/ICArchives/A-after) 。
+还剩两个。 [跋](https://icarus-syndicated.github.io/ICArchives/3-fin) ， 和 [A - 续](https://icarus-syndicated.github.io/ICArchives/after/$1-after) 。
 
 ***
 
@@ -252,7 +252,7 @@ tmd还有人类吗
 
 另一方面讲，即使你弄明白了每个人的外号，梳理出了每个人在什么时候做了什么，整理了服务器的大事时间表，最后也没能帮到多少。
 
-你去看了 [A - 续](https://icarus-syndicated.github.io/ICArchives/A-after) ，然而你仍然不知道上下文是什么，更不知道 wsts 是谁。
+你去看了 [A - 续](https://icarus-syndicated.github.io/ICArchives/after/$1-after) ，然而你仍然不知道上下文是什么，更不知道 wsts 是谁。
 
 这是一座为已死之回忆写就的档案馆，而你以一个闯入者的身份，旁观了一场历史的悲剧，重复了五次。
 
@@ -351,5 +351,5 @@ tmd还有人类吗
 ## 备注
 
 本文的写作者为 ajchen，是在阅读完所有文档之后的读后感。  
-令我意外的是，真的存在于这个服务器之外而愿意阅读这个服务器的“历史”的人，并且还抒发了如此的感受。  
+令我意外的是，真的存在此前不知晓这个服务器却愿意阅读这个服务器的“历史”的人，并且还抒发了如此的感受。  
 感谢他愿意看完这篇差点渺茫于尘埃中的史诗。  
