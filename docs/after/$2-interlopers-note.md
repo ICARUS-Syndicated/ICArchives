@@ -1,8 +1,8 @@
 ---
-sidebar_position: 302
+sidebar_position: 2
 ---
 
-# B - 闯入者的笔记
+# 闯入者的笔记
 
 :::warning
 
@@ -115,14 +115,14 @@ ICAI是什么？ RWP又是是什么？ RMS是啥？？ 伊卡洛斯又是啥？�
 
 | 外号 | 常见英文名 | 当前（第二周目）的身份 | 备注 |
 | --- | --- | --- | --- |
-| 红白 | `RedWhite` |  | 一周目服主 |
+| 红白 | `RedWhite` | / | 一周目服主 |
 | “笔者” | `huxk`，`white_phosphor` | 物理机服主 | 你已经知道笔者是WhitePhosphor（白磷）了 |
-| 菠萝 | `littleboluo` | 管理 |  |
+| 菠萝 | `littleboluo` | 管理 | / |
 | CBW | `CBW` | 管理？服主？ | 在[红白走后](https://icarus-syndicated.github.io/ICArchives/first-iteration/-handoff)，曾为“代理服主” |
-| hmcl | `Jade_Emerge` | 管理 |  |
-| 苏哥 | `SovietCommander` | 管理 |  |
-| 欧阳 | `ouyangyuanyi` | 管理 |  |
-| air | `airlenter` | 管理 |  |
+| hmcl | `Jade_Emerge` | 管理 | / |
+| 苏哥 | `SovietCommander` | 管理 | / |
+| 欧阳 | `ouyangyuanyi` | 管理 | / |
+| air | `airlenter` | 管理 | / |
 
 ...看着上面的人名表，你不得不承认 [尘中废墟](https://icarus-syndicated.github.io/ICArchives/second-iteration/-ruins-in-the-dust#%E5%BD%B1%E4%B8%AD) 中提到的 “混乱的世界” 的确有道理。
 
@@ -334,7 +334,7 @@ tmd还有人类吗
 
 ***
 
-***在阅读完 B - 闯入者的笔记 后***
+***在阅读完 闯入者的笔记 后***
 
 整个文档站已经没有什么东西需要探明了。
 
@@ -347,3 +347,9 @@ tmd还有人类吗
 ...“你”想了想。或许你和“你”已经不算是一个闯入者了。
 
 或者至少，在这个全新的世界里，没有“闯入者”一说。
+
+## 备注
+
+本文的写作者为 ajchen，是在阅读完所有文档之后的读后感。  
+令我意外的是，真的存在于这个服务器之外而愿意阅读这个服务器的“历史”的人，并且还抒发了如此的感受。  
+感谢他愿意看完这篇差点渺茫于尘埃中的史诗。  
