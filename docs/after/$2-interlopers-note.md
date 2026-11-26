@@ -8,7 +8,9 @@ sidebar_position: 2
 
 本篇的笔者 **不是** 文档站的主笔者。
 
-本篇含有部分图片。
+本篇是在 [在一切开始之前](https://icarus-syndicated.github.io/ICArchives/before-you-go) 发表前完成的。现在，你可以同时参考该文章辅助理解该文档站。本篇没有使用该文章。
+
+本篇含有部分图片，敬请留意。
 
 :::
 
@@ -23,7 +25,9 @@ ICAI是什么？ RWP又是是什么？ RMS是啥？？ 伊卡洛斯又是啥？�
 
 ***
 
-***在阅读完 两篇序言 后*** ，你仍然是一头雾水。
+## ***在阅读完 两篇序言 后***
+
+你仍然是一头雾水。
 
 似乎是在什么时间之前，什么东西有过什么辉煌，最后又落成了一地鸡毛？
 
@@ -51,7 +55,9 @@ ICAI是什么？ RWP又是是什么？ RMS是啥？？ 伊卡洛斯又是啥？�
 
 ***
 
-***在阅读完 第零迭代 的 所有主线文章 后*** ，你不由自主的开始感到怀旧。
+## ***在阅读完 第零迭代 的 所有主线文章 后*** 
+
+你不由自主的开始感到怀旧。
 
 这个文档站所讲述故事的开端发生在2020年，几个好友一起在自己的服务器里享受时光。
 
@@ -71,7 +77,9 @@ ICAI是什么？ RWP又是是什么？ RMS是啥？？ 伊卡洛斯又是啥？�
 
 ***
 
-***在阅读完 第一迭代 的 所有主线文章（除附录） 后*** ，你有些感伤。
+## ***在阅读完 第一迭代 的 所有主线文章（除附录） 后***
+
+你有些感伤。
 
 第一迭代讲述了一个MC服务器从开服到关服的全部经历： [从零](https://icarus-syndicated.github.io/ICArchives/first-iteration/$1-from-zero-to-one) 开服，逐渐 [上升](https://icarus-syndicated.github.io/ICArchives/first-iteration/$2-uprising) ， 出现 [裂隙](https://icarus-syndicated.github.io/ICArchives/first-iteration/$3-fracture) ，[狂飙突进](https://icarus-syndicated.github.io/ICArchives/first-iteration/$4-sturm-and-drang) ， 递 [交接棒](https://icarus-syndicated.github.io/ICArchives/first-iteration/$5-handoff) ， 创 [乌托邦](https://icarus-syndicated.github.io/ICArchives/first-iteration/$6-utopia) ，人 [终曲](https://icarus-syndicated.github.io/ICArchives/first-iteration/$7-finale) 散。
 
@@ -89,7 +97,9 @@ ICAI是什么？ RWP又是是什么？ RMS是啥？？ 伊卡洛斯又是啥？�
 
 ***
 
-***在阅读完 第二迭代 的 第一个页面 后*** ，你发现了一个严肃的问题。
+## ***在阅读完 第二迭代 的 第一个页面 后***
+
+你发现了一个严肃的问题。
 
 这名字是不是太多了点！
 
@@ -105,7 +115,7 @@ ICAI是什么？ RWP又是是什么？ RMS是啥？？ 伊卡洛斯又是啥？�
 
 你意识到自己还有两个选择：其一是 [关掉这个奇怪的文档站，然后回到b站刷会视频](https://www.bilibili.com/) ；
 
-其二，也是最痛苦的：自己重新读一遍 [第一迭代](https://icarus-syndicated.github.io/ICArchives/first-iteration) 的所有内容，然后借助网页内搜索 (Ctrl + F) 和全文档搜索 (Ctrl + K) ，能弄清楚多少人名是多少。
+其二，也是最痛苦的：自己重新读一遍 [第一迭代](https://icarus-syndicated.github.io/ICArchives/first-iteration) 的所有内容，然后借助 [在一切开始之前](https://icarus-syndicated.github.io/ICArchives/before-you-go) 的人名表、网页内搜索人名 (Ctrl + F) 和全文档搜索人名 (Ctrl + K) ，能弄清楚多少是多少。
 
 ...或者，[就这么往下读](https://icarus-syndicated.github.io/ICArchives/second-iteration/$2-cooldown)？即使没弄明白可能也不要紧？
 
@@ -118,7 +128,7 @@ ICAI是什么？ RWP又是是什么？ RMS是啥？？ 伊卡洛斯又是啥？�
 | 红白 | `RedWhite` | / | 一周目服主 |
 | “笔者” | `huxk`，`white_phosphor` | 物理机服主 | 你已经知道笔者是WhitePhosphor（白磷）了 |
 | 菠萝 | `littleboluo` | 管理 | / |
-| CBW | `CBW` | 管理？服主？ | 在[红白走后](https://icarus-syndicated.github.io/ICArchives/first-iteration/$5-handoff)，曾为“代理服主” |
+| CBW | `CBW` | 管理？/服主？ | 在[红白走后](https://icarus-syndicated.github.io/ICArchives/first-iteration/$5-handoff)，曾为“代理服主” |
 | hmcl | `Jade_Emerge` | 管理 | / |
 | 苏哥 | `SovietCommander` | 管理 | / |
 | 欧阳 | `ouyangyuanyi` | 管理 | / |
@@ -130,7 +140,7 @@ ICAI是什么？ RWP又是是什么？ RMS是啥？？ 伊卡洛斯又是啥？�
 
 ***
 
-***在阅读完 第二迭代 的 所有主线文章 后*** ...
+## ***在阅读完 第二迭代 的 所有主线文章 后*** 
 
 你不得不承认事情比你以为的更加绝望。
 
@@ -152,7 +162,7 @@ ICAI是什么？ RWP又是是什么？ RMS是啥？？ 伊卡洛斯又是啥？�
 
 ***
 
-***在阅读完 第二迭代 的 支线 - 地铁工程 后***
+## ***在阅读完 第二迭代 的 支线 - 地铁工程 后***
 
 牛魔的，wdnmd
 
@@ -164,7 +174,7 @@ tmd还有人类吗
 
 ***
 
-***在阅读完 第三迭代 的 所有主线文章 后***...
+## ***在阅读完 第三迭代 的 所有主线文章 后***
 
 你不知道该说什么好。
 
@@ -186,7 +196,7 @@ tmd还有人类吗
 
 ***
 
-***在阅读完 第四迭代 的 所有主线文章 后***
+## ***在阅读完 第四迭代 的 所有主线文章 后***
 
 ...
 
@@ -214,7 +224,7 @@ tmd还有人类吗
 
 ***
 
-***在阅读完 第五迭代 和 第六迭代 的 所有主线文章 后***
+## ***在阅读完 第五迭代 和 第六迭代 的 所有主线文章 后***
 
 ...
 
@@ -242,11 +252,11 @@ tmd还有人类吗
 
 你意识到，你已经阅读了档案馆的绝大部分内容。
 
-还剩两个。 [跋](https://icarus-syndicated.github.io/ICArchives/3-fin) ， 和 [A - 续](https://icarus-syndicated.github.io/ICArchives/after/$1-after) 。
+还剩最后一个： [跋](https://icarus-syndicated.github.io/ICArchives/3-fin) 。
 
 ***
 
-***在阅读完 除去组织列表的 所有主线文章 后***，你的内心五味杂陈。
+## ***在阅读完 除去组织列表的 所有主线文章 后***，你的内心五味杂陈。
 
 一方面讲，你想办法弄懂了整个文档站的几乎所有内容，而这个文档站奖励了你一场反复的悲剧。
 
@@ -254,7 +264,9 @@ tmd还有人类吗
 
 你去看了 [A - 续](https://icarus-syndicated.github.io/ICArchives/after/$1-after) ，然而你仍然不知道上下文是什么，更不知道 wsts 是谁。
 
-这是一座为已死之回忆写就的档案馆，而你以一个闯入者的身份，旁观了一场历史的悲剧，重复了五次。
+这是一座冰冷的档案馆，存放着冰冷的故事。
+
+而你以一个闯入者的身份，旁观了一场重复了五次的悲剧。
 
 ...
 
@@ -268,7 +280,7 @@ tmd还有人类吗
 
 “你”自私的想，如果红白阁只有第一周目，而没有后面的一切，该有多好。
 
-但过去无法改变。有人推了一把山顶上的巨石，于是再也没人能停下脚步。
+但过去无法改变。
 
 ...
 
@@ -280,7 +292,7 @@ tmd还有人类吗
 
 就算是“你”已经阅读过了档案馆的所有内容，“你”也不认为“你”就有资格去在当事人面前表达惋惜或者什么别的；毕竟“你”是一个外人，幸运的没有经历过那些不幸的外人，他们大概不会理解也不会需要“你”的多余感情。
 
-但“你”确实是通过一些机缘巧合闯入了这里。一座为抒发已死之回忆而写就的档案馆。
+但“你”确实是通过一些机缘巧合闯入了这里，一座为抒发已死之愤恨而写就的档案馆。
 
 正如当时的“笔者”一样。
 
@@ -296,7 +308,7 @@ tmd还有人类吗
 
 ***
 
-***在阅读完 第五迭代 的 支线 - 别拿着你那个大逼 OP 武器在那乱晃了 后***
+## ***在阅读完 第五迭代 的 支线 - 别拿着你那个大逼 OP 武器在那乱晃了 后***
 
 哦牛逼
 
@@ -334,7 +346,7 @@ tmd还有人类吗
 
 ***
 
-***在阅读完 闯入者的笔记 后***
+## ***在阅读完 闯入者的笔记 后***
 
 整个文档站已经没有什么东西需要探明了。
 
